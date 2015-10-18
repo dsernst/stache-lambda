@@ -1,0 +1,18 @@
+{
+  "name": "stacheCalculator",
+  "version": "0.0.1",
+  "location": "https://github.com/...",
+  "author": "",
+  "description": "",
+  "domain": "stache.dsernst.com",
+  "stages": {
+    "dev": [
+      {
+        "region": "us-east-1",
+        "iamRoleArnLambda": "arn:aws:iam::879941792017:role/dev-stacheCalculator-r-IamRoleLambda-1ESYIUJNDAU6Q",
+        "iamRoleArnApiGateway": "arn:aws:iam::879941792017:role/dev-stacheCalculator-r-IamRoleApiGateway-1G8XX2BSW9W88",
+        "jawsBucket": "jaws.dev.useast1.stache.dsernst.com"
+      }
+    ]
+  }
+}
