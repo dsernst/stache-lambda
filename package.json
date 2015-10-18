@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "description": "A JAWS application",
   "author": "me",
-  "license": "",
+  "license": "UNLICENSED",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git://github.com/"
+    "url": "https://github.com/dsernst/stache-lambda.git"
   },
   "keywords": [],
   "devDependencies": {},
